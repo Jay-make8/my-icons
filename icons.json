@@ -1,0 +1,30 @@
+{
+  "name": "My AI Icons",
+  "description": "个人 AI 图标合集，素材来自 Lobe Icons；256×256 透明 PNG。",
+  "icons": [
+    {
+      "name": "OpenAI.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/openai.png"
+    },
+    {
+      "name": "Claude.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/claude.png"
+    },
+    {
+      "name": "Claude Code.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/claudecode.png"
+    },
+    {
+      "name": "Anthropic.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/anthropic.png"
+    },
+    {
+      "name": "Antigravity.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/antigravity.png"
+    },
+    {
+      "name": "Muse.png",
+      "url": "https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/muse.png"
+    }
+  ]
+}
