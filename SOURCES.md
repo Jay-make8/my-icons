@@ -14,7 +14,10 @@
 | `anthropic.svg` | `92c94a50807b57aa1430b6994f6bceef0b866b1195f4fd8a7adb25d9a671edc0` |
 | `antigravity.svg` | `d6c514860ca49387ed72354620c57aab2afc4e1783ce88204e03077e0634dfa6` |
 | `muse.svg` | `f8094d6f786ae22c0bd27dbb0040a97969dc3aadd32f68bbddd3045afb619263` |
+| `gemini.svg` | `44a32967f72b361b1d25d9ca7e0e65ddb2317f1fc8689600557c4a6a1312aff2` |
 
 索引结构参考：https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor-All.json 。仅参考字段结构，没有复制 Qure 图标。
 
 许可：LobeHub 上游 MIT License 原文随库保留在 LICENSE-LobeHub.txt；品牌商标权不因该许可而转移。
+
+2026-11-21：用户补充 Gemini SVG，沿用相同转换规格。

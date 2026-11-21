@@ -1,6 +1,6 @@
 # My AI Icons
 
-自用 AI 图标库，首版收录 6 个从 [Lobe Icons](https://icons.lobehub.com/) 下载的 Logo。PNG 为 256 × 256 透明背景，保留原有颜色，四边留 16 px 空白；原 SVG 保存在 `sources/`。
+自用 AI 图标库，现收录 7 个从 [Lobe Icons](https://icons.lobehub.com/) 下载的 Logo。PNG 为 256 × 256 透明背景，保留原有颜色，四边留 16 px 空白；原 SVG 保存在 `sources/`。
 
 ## 图标合集订阅
 
@@ -20,6 +20,7 @@ JSON 是图标索引，不是代理节点订阅或规则订阅。各客户端是
 | Anthropic | ![Anthropic](icons/anthropic.png) | [PNG](https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/anthropic.png) |
 | Antigravity | ![Antigravity](icons/antigravity.png) | [PNG](https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/antigravity.png) |
 | Muse | ![Muse](icons/muse.png) | [PNG](https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/muse.png) |
+| Gemini | ![Gemini](icons/gemini.png) | [PNG](https://raw.githubusercontent.com/Jay-make8/my-icons/main/icons/gemini.png) |
 
 ## Surge 用法
 
@@ -52,3 +53,5 @@ Claude = select, 美国节点, 自动选择, icon-url=https://raw.githubusercont
 来源说明及原文件 SHA-256 见 [SOURCES.md](SOURCES.md)，LobeHub 的 MIT 许可原文见 [LICENSE-LobeHub.txt](LICENSE-LobeHub.txt)。品牌 Logo 及商标权归各权利人所有。
 
 2026-11-21：建立公开自用图标库；仅收录本次下载的 6 个 Logo；保留 SVG，生成 PNG 和 Qure 结构的索引。文件名固定，后续更新尽量沿用原链接。
+
+2026-11-21：新增 Gemini 原 SVG 和同规格 PNG，订阅扩展为 7 个图标，订阅地址沿用原链接。
